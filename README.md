@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a student of Code Institute since February 2021.
-- 🔭: I’m currently working on Milestone Project 2 expressing HTML, CSS, JS.
+- 🔭: I’m currently working on Milestone Project 3 out of 4 and will be implementing HTML, CSS, JS, Python, JSON and Flask.
 - 🤔: I’m looking for my start in this exciting industry!
 - ⚡  Don't Judge me: I'm a Newcastle United Fan and I game online! ⚽
   
