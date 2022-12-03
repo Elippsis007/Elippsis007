@@ -8,7 +8,6 @@
 
 - 🏫: I'm a graduate Code Institute since February 2022 with a Diploma in Full-Stack Software Development.
 - 🔭: I work for Nuance Communications (Now Microsoft) on AI Voice Recognition software as a Technical Support Engineer.
-- 🤔: I'm currently seeking work in a similar field in Brazil to be with my significant other.
 - ⚡  Don't Judge me: I'm a Newcastle United Fan and I game online! ⚽
   
 <hr>
