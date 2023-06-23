@@ -35,8 +35,6 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Elippsis007&repo=bruna_fernandes_phsiotherapy_m2)](https://github.com/Elippsis007/bruna_fernandes_physiotherapy_m2)
-  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Elippsis007&repo=Premier-League-HoF)](https://github.com/Elippsis007/Premier-League-HoF) 
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Elippsis007&repo=football_shelf_m3)](https://github.com/Elippsis007/football_shelf_m3)
