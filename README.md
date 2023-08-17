@@ -27,19 +27,7 @@
 |![](https://img.shields.io/badge/HTML%20-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/CSS%20-red?style=for-the-badge)|![](https://img.shields.io/badge/BootStrap%20-purple?style=for-the-badge)|![](https://img.shields.io/badge/JavaScript%20-orange?style=for-the-badge)|![](https://img.shields.io/badge/jQuery-blue?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Python%20-green?style=for-the-badge)|![](https://img.shields.io/badge/API%20-yellow?style=for-the-badge)|![](https://img.shields.io/badge/-UX%20Design-blue?style=for-the-badge)|![](https://img.shields.io/badge/GitHub-pink?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Elippsis007&repo=Premier-League-HoF)](https://github.com/Elippsis007/Premier-League-HoF) 
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Elippsis007&repo=football_shelf_m3)](https://github.com/Elippsis007/football_shelf_m3)
- 
-  
+
 <Br>
 <hr>
 <Br>
