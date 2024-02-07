@@ -6,11 +6,19 @@
 <h1 align="center">I'm [Michael Drumm](https://github.com/Elippsis007), but call me Mike <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <br>
 
+<!-- TryHackMe Badge -->
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Elippsis007.png" alt="TryHackMe">
+</p>
+<hr>
+<br>
+
 <!-- About Me Section -->
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a graduate of Code Institute since February 2022 with a Diploma in Full-Stack Software Development.
 - 🔭: I work for Nuance Communications (Now Microsoft) on AI Voice Recognition software as a Technical Support Engineer.
+- 💻 Currently honing my skills in cybersecurity through TryHackMe and working through the materials from the OverTheWire (OTW) book series with the goal of becoming a Junior Penetration Tester. 🔒
 - ⚡ Don't Judge me: I'm a Newcastle United Fan and I game online! ⚽
 
 <hr>
