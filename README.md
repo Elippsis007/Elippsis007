@@ -48,7 +48,13 @@
       <th></th>
       <th>Web Development</th>
       <th></th>
-      <th>Other Technologies</th>
+      <th>DevOps and Tools</th>
+      <th></th>
+      <th>Operating Systems</th>
+      <th></th>
+      <th>Cloud Technologies</th>
+      <th></th>
+      <th>Databases</th>
       <th></th>
     </tr>
     <tr>
@@ -56,84 +62,136 @@
       <td>🔒</td>
       <td>HTML</td>
       <td>🖥️</td>
-      <td>Flask</td>
-      <td>🌐</td>
+      <td>Windows</td>
+      <td>💻</td>
+      <td>Windows</td>
+      <td>💻</td>
+      <td>Cloud Validation Testing</td>
+      <td>☁️</td>
+      <td>SQL</td>
+      <td>🗄️</td>
     </tr>
     <tr>
       <td>Pentesting</td>
       <td>🔍</td>
       <td>JavaScript</td>
       <td>💻</td>
-      <td>Bootstrap</td>
-      <td>🅱️</td>
+      <td>Mac</td>
+      <td>🍏</td>
+      <td>Mac</td>
+      <td>🍏</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Defensive Security</td>
       <td>🛡️</td>
       <td>Python</td>
       <td>🐍</td>
-      <td>Bulma</td>
-      <td>🎨</td>
+      <td>Kali Linux / Linux</td>
+      <td>🐧</td>
+      <td>Kali Linux / Linux</td>
+      <td>🐧</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Offensive Security</td>
       <td>⚔️</td>
       <td>jQuery</td>
       <td>💡</td>
-      <td>MongoDB</td>
-      <td>🍃</td>
+      <td>VM's</td>
+      <td>🖥️</td>
+      <td>VM's</td>
+      <td>🖥️</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Security Principles</td>
       <td>🔑</td>
       <td>Dev Tools</td>
       <td>🛠️</td>
-      <td>Heroku</td>
-      <td>☁️</td>
-    </tr>
-    <tr>
-      <td>Linux</td>
-      <td>🐧</td>
       <td></td>
       <td></td>
-      <td>JSON</td>
-      <td>📝</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>API's</td>
       <td>🔌</td>
       <td></td>
       <td></td>
-      <td>Django</td>
-      <td>🎸</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Github</td>
       <td>🐙</td>
       <td></td>
       <td></td>
-      <td>MySQL</td>
-      <td>🗄️</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Nmap</td>
       <td>🌐</td>
       <td></td>
       <td></td>
-      <td>Postgres</td>
-      <td>🐘</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>BurpSuite</td>
       <td>🔧</td>
       <td></td>
       <td></td>
-      <td>AWS</td>
-      <td>🚀</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Hashcat</td>
       <td>💥</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -146,10 +204,22 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Networks</td>
       <td>🌐</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -162,6 +232,12 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>HTTP</td>
@@ -170,9 +246,18 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
+
+
+
 
 
 
