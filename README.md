@@ -3,7 +3,9 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hello! I'm [Michael Drumm](https://github.com/Elippsis007), but you can call me Mike <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<!-- Introduction Section -->
+<h1 align="center">Hello there! I'm <a href="https://github.com/Elippsis007" target="_blank">Michael</a>, but around here, everyone calls me Mike! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 <br>
 
 <!-- Introduction Section -->
