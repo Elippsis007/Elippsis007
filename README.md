@@ -44,58 +44,52 @@
 <div align="center">
   <table>
     <tr>
-      <th>Skill</th>
+      <th>Cyber Security</th>
       <th></th>
-      <th>Skill</th>
+      <th>Web Development</th>
       <th></th>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td>🖥️</td>
-      <td>Dev Tools</td>
-      <td>🛠️</td>
     </tr>
     <tr>
       <td>Cyber Security</td>
       <td>🔒</td>
-      <td>JavaScript</td>
-      <td>💻</td>
+      <td>HTML</td>
+      <td>🖥️</td>
     </tr>
     <tr>
       <td>Pentesting</td>
       <td>🔍</td>
-      <td>Python</td>
-      <td>🐍</td>
+      <td>JavaScript</td>
+      <td>💻</td>
     </tr>
     <tr>
       <td>Defensive Security</td>
       <td>🛡️</td>
-      <td>jQuery</td>
-      <td>💡</td>
+      <td>Python</td>
+      <td>🐍</td>
     </tr>
     <tr>
       <td>Offensive Security</td>
       <td>⚔️</td>
-      <td>Ux Design</td>
-      <td>🎨</td>
+      <td>jQuery</td>
+      <td>💡</td>
     </tr>
     <tr>
       <td>Security Principles</td>
       <td>🔑</td>
-      <td>Networks</td>
-      <td>🌐</td>
+      <td>Dev Tools</td>
+      <td>🛠️</td>
     </tr>
     <tr>
       <td>Linux</td>
       <td>🐧</td>
-      <td>Application Security</td>
-      <td>🛡️</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>API's</td>
       <td>🔌</td>
-      <td>HTTP</td>
-      <td>🌐</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Github</td>
@@ -124,6 +118,24 @@
     <tr>
       <td>Wifite</td>
       <td>📡</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Networks</td>
+      <td>🌐</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Application Security</td>
+      <td>🛡️</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HTTP</td>
+      <td>🌐</td>
       <td></td>
       <td></td>
     </tr>
