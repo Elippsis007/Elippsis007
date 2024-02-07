@@ -48,108 +48,58 @@
       <th></th>
       <th>Skill</th>
       <th></th>
-      <th>Skill</th>
-      <th></th>
-      <th>Skill</th>
-      <th></th>
-    </tr>
-    <tr>
-      <td>Cyber Security</td>
-      <td>🔒</td>
-      <td>Web Development</td>
-      <td>🖥️</td>
-      <td>DevOps and Tools</td>
-      <td>🛠️</td>
-      <td>Operating Systems</td>
-      <td>💻</td>
     </tr>
     <tr>
       <td>Pentesting</td>
       <td>🔍</td>
       <td>HTML</td>
       <td>🖥️</td>
-      <td>Windows</td>
-      <td>💻</td>
-      <td>Windows</td>
-      <td>💻</td>
     </tr>
     <tr>
       <td>Defensive Security</td>
       <td>🛡️</td>
       <td>JavaScript</td>
       <td>💻</td>
-      <td>Mac</td>
-      <td>🍏</td>
-      <td>Mac</td>
-      <td>🍏</td>
     </tr>
     <tr>
       <td>Offensive Security</td>
       <td>⚔️</td>
       <td>Python</td>
       <td>🐍</td>
-      <td>Kali Linux / Linux</td>
-      <td>🐧</td>
-      <td>Kali Linux / Linux</td>
-      <td>🐧</td>
     </tr>
     <tr>
       <td>Security Principles</td>
       <td>🔑</td>
       <td>jQuery</td>
       <td>💡</td>
-      <td>VM's</td>
-      <td>🖥️</td>
-      <td>VM's</td>
-      <td>🖥️</td>
     </tr>
     <tr>
       <td>API's</td>
       <td>🔌</td>
       <td>Dev Tools</td>
       <td>🛠️</td>
-      <td>Azure DevOps (Work Item Creation)</td>
-      <td>🛠️</td>
-      <td>AWS</td>
-      <td>🚀</td>
     </tr>
     <tr>
       <td>Github</td>
       <td>🐙</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>SQL</td>
-      <td>🗄️</td>
+      <td>Azure DevOps (Work Item Creation)</td>
+      <td>🛠️</td>
     </tr>
     <tr>
       <td>Nmap</td>
       <td>🌐</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>AWS</td>
+      <td>🚀</td>
     </tr>
     <tr>
       <td>BurpSuite</td>
       <td>🔧</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>SQL</td>
+      <td>🗄️</td>
     </tr>
     <tr>
       <td>Hashcat</td>
       <td>💥</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -158,18 +108,10 @@
       <td>📡</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Networks</td>
       <td>🌐</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -178,18 +120,10 @@
       <td>🛡️</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>HTTP</td>
       <td>🌐</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
