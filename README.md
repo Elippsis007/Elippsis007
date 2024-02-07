@@ -42,115 +42,94 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 
 <div align="center">
-  
-  <!-- First Table (Horizontally Displayed) -->
-  <div style="display: inline-block; width: 90%;">
-    <table>
-      <tr>
-        <th>Skill</th>
-        <th></th>
-      </tr>
-      <tr>
-        <td>HTML</td>
-        <td>🖥️</td>
-      </tr>
-      <tr>
-        <td>Cyber Security</td>
-        <td>🔒</td>
-      </tr>
-      <tr>
-        <td>Pentesting</td>
-        <td>🔍</td>
-      </tr>
-      <tr>
-        <td>Defensive Security</td>
-        <td>🛡️</td>
-      </tr>
-      <tr>
-        <td>Offensive Security</td>
-        <td>⚔️</td>
-      </tr>
-      <tr>
-        <td>Security Principles</td>
-        <td>🔑</td>
-      </tr>
-      <tr>
-        <td>Linux</td>
-        <td>🐧</td>
-      </tr>
-      <tr>
-        <td>API's</td>
-        <td>🔌</td>
-      </tr>
-      <tr>
-        <td>Github</td>
-        <td>🐙</td>
-      </tr>
-      <tr>
-        <td>Nmap</td>
-        <td>🌐</td>
-      </tr>
-      <tr>
-        <td>BurpSuite</td>
-        <td>🔧</td>
-      </tr>
-      <tr>
-        <td>Hashcat</td>
-        <td>💥</td>
-      </tr>
-      <tr>
-        <td>Wifite</td>
-        <td>📡</td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Add a bit less space between the tables -->
-  <br><br>
-  
-  <!-- Second Table (Same Format, Beneath First Table) -->
-  <div style="display: inline-block; width: 90%;">
-    <table>
-      <tr>
-        <th>Skill</th>
-        <th></th>
-      </tr>
-      <tr>
-        <td>Dev Tools</td>
-        <td>🛠️</td>
-      </tr>
-      <tr>
-        <td>JavaScript</td>
-        <td>💻</td>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>🐍</td>
-      </tr>
-      <tr>
-        <td>jQuery</td>
-        <td>💡</td>
-      </tr>
-      <tr>
-        <td>Ux Design</td>
-        <td>🎨</td>
-      </tr>
-      <tr>
-        <td>Networks</td>
-        <td>🌐</td>
-      </tr>
-      <tr>
-        <td>Application Security</td>
-        <td>🛡️</td>
-      </tr>
-      <tr>
-        <td>HTTP</td>
-        <td>🌐</td>
-      </tr>
-    </table>
-  </div>
-  
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th></th>
+      <th>Skill</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>🖥️</td>
+      <td>Dev Tools</td>
+      <td>🛠️</td>
+    </tr>
+    <tr>
+      <td>Cyber Security</td>
+      <td>🔒</td>
+      <td>JavaScript</td>
+      <td>💻</td>
+    </tr>
+    <tr>
+      <td>Pentesting</td>
+      <td>🔍</td>
+      <td>Python</td>
+      <td>🐍</td>
+    </tr>
+    <tr>
+      <td>Defensive Security</td>
+      <td>🛡️</td>
+      <td>jQuery</td>
+      <td>💡</td>
+    </tr>
+    <tr>
+      <td>Offensive Security</td>
+      <td>⚔️</td>
+      <td>Ux Design</td>
+      <td>🎨</td>
+    </tr>
+    <tr>
+      <td>Security Principles</td>
+      <td>🔑</td>
+      <td>Networks</td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td>🐧</td>
+      <td>Application Security</td>
+      <td>🛡️</td>
+    </tr>
+    <tr>
+      <td>API's</td>
+      <td>🔌</td>
+      <td>HTTP</td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td>Github</td>
+      <td>🐙</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nmap</td>
+      <td>🌐</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BurpSuite</td>
+      <td>🔧</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hashcat</td>
+      <td>💥</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wifite</td>
+      <td>📡</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
+
 
 <hr>
 <br>
