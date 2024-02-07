@@ -48,70 +48,94 @@
       <th></th>
       <th>Web Development</th>
       <th></th>
+      <th>Other Technologies</th>
+      <th></th>
     </tr>
     <tr>
       <td>Cyber Security</td>
       <td>🔒</td>
       <td>HTML</td>
       <td>🖥️</td>
+      <td>Flask</td>
+      <td>🌐</td>
     </tr>
     <tr>
       <td>Pentesting</td>
       <td>🔍</td>
       <td>JavaScript</td>
       <td>💻</td>
+      <td>Bootstrap</td>
+      <td>🅱️</td>
     </tr>
     <tr>
       <td>Defensive Security</td>
       <td>🛡️</td>
       <td>Python</td>
       <td>🐍</td>
+      <td>Bulma</td>
+      <td>🎨</td>
     </tr>
     <tr>
       <td>Offensive Security</td>
       <td>⚔️</td>
       <td>jQuery</td>
       <td>💡</td>
+      <td>MongoDB</td>
+      <td>🍃</td>
     </tr>
     <tr>
       <td>Security Principles</td>
       <td>🔑</td>
       <td>Dev Tools</td>
       <td>🛠️</td>
+      <td>Heroku</td>
+      <td>☁️</td>
     </tr>
     <tr>
       <td>Linux</td>
       <td>🐧</td>
       <td></td>
       <td></td>
+      <td>JSON</td>
+      <td>📝</td>
     </tr>
     <tr>
       <td>API's</td>
       <td>🔌</td>
       <td></td>
       <td></td>
+      <td>Django</td>
+      <td>🎸</td>
     </tr>
     <tr>
       <td>Github</td>
       <td>🐙</td>
       <td></td>
       <td></td>
+      <td>MySQL</td>
+      <td>🗄️</td>
     </tr>
     <tr>
       <td>Nmap</td>
       <td>🌐</td>
       <td></td>
       <td></td>
+      <td>Postgres</td>
+      <td>🐘</td>
     </tr>
     <tr>
       <td>BurpSuite</td>
       <td>🔧</td>
       <td></td>
       <td></td>
+      <td>AWS</td>
+      <td>🚀</td>
     </tr>
     <tr>
       <td>Hashcat</td>
       <td>💥</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -120,10 +144,14 @@
       <td>📡</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Networks</td>
       <td>🌐</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -132,15 +160,20 @@
       <td>🛡️</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>HTTP</td>
       <td>🌐</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
+
 
 
 <hr>
