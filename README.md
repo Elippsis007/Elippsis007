@@ -33,7 +33,6 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-d-88947716a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLR4xtLbMTR6TOMJ5yCS2BA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Michael%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:michaeldrmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/michaeldrmm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/Elippsis007" target="_blank"><img src="https://img.shields.io/badge/Elippsis007-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <hr>
