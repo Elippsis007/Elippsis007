@@ -27,7 +27,7 @@
 <br>
 
 <!-- Skills Section -->
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">Skills I have! 🤸‍♂️</h1>
 
 <div align="center">
   <table>
@@ -86,34 +86,58 @@
       <td>🗄️</td>
     </tr>
     <tr>
-      <td>Hashcat</td>
-      <td>💥</td>
-      <td></td>
-      <td></td>
+      <td>Metasploit</td>
+      <td>⚔️</td>
+      <td>PHP</td>
+      <td>📜</td>
     </tr>
     <tr>
-      <td>Wifite</td>
-      <td>📡</td>
-      <td></td>
-      <td></td>
+      <td>Wireshark</td>
+      <td>🔍</td>
+      <td>CSS</td>
+      <td>🎨</td>
+    </tr>
+    <tr>
+      <td>SSH</td>
+      <td>🔐</td>
+      <td>XML</td>
+      <td>📄</td>
+    </tr>
+    <tr>
+      <td>FTP</td>
+      <td>📁</td>
+      <td>Flask</td>
+      <td>🔥</td>
+    </tr>
+    <tr>
+      <td>Telnet</td>
+      <td>💻</td>
+      <td>Django</td>
+      <td>🔗</td>
+    </tr>
+    <tr>
+      <td>SMB</td>
+      <td>🖧</td>
+      <td>Bootstrap</td>
+      <td>👢</td>
     </tr>
     <tr>
       <td>Networks</td>
       <td>🌐</td>
-      <td></td>
-      <td></td>
+      <td>MongoDB</td>
+      <td>🍃</td>
     </tr>
     <tr>
       <td>Application Security</td>
       <td>🛡️</td>
-      <td></td>
-      <td></td>
+      <td>MySQL</td>
+      <td>🛢️</td>
     </tr>
     <tr>
       <td>HTTP</td>
       <td>🌐</td>
-      <td></td>
-      <td></td>
+      <td>PostgreSQL</td>
+      <td>🐘</td>
     </tr>
   </table>
 </div>
