@@ -11,20 +11,8 @@
 <!-- Introduction Section -->
 <h2 align="center">Ambitious IT Enthusiast with a Passion for Cybersecurity</h2>
 <p align="center">I'm a motivated individual with a strong interest in information technology, particularly in the field of cybersecurity. My journey began with a fascination for technology and a desire to understand how systems work. Over time, this interest evolved into a passion for ethical hacking principles and the thrill of testing and discovering vulnerabilities in systems.</p>
-<p align="center">As I continue to expand my knowledge and skills in IT, my ultimate goal is to transition into a role as a Junior Penetration Tester. I am driven by the challenge of securing systems and networks against potential threats, and I am committed to continuous learning and development in this dynamic field.</p>
+<p align="center">As I continue to expand my knowledge and skills in IT, my ultimate goal is to transition into an entry level role within the cybersecurity world, ultimate goal of becoming a Penetration Tester. I am driven by the challenge of securing systems and networks against potential threats, and I am committed to continuous learning and development in this dynamic field.</p>
 <br>
-
-<!-- TryHackMe Badge -->
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Elippsis007.png" alt="TryHackMe">
-</p>
-
-<!-- Completed TryHackMe Rooms -->
-<h2 align="center">Completed TryHackMe Rooms:</h2>
-
-<p align="center">
-  View all completed rooms on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/Elippsis007)
-</p>
 
 <hr>
 <br>
