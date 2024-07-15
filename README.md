@@ -11,7 +11,7 @@
 <!-- Introduction Section -->
 <h2 align="center">Ambitious IT Enthusiast</h2>
 <p align="center">I'm a motivated individual with a passion for information technology. My journey began with a fascination for technology and a desire to understand how systems work.</p>
-<p align="center">As I continue to expand my knowledge and skills in IT, I am driven by the challenges.</p>
+<p align="center">I am driven by the challenges.</p>
 <br>
 
 <hr>
